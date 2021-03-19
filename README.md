@@ -31,4 +31,9 @@ I like to code in Javascript and love creating websites and mobile applications.
 <img alt="React Native" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616184229/reactnative_tvadr2.png"/>
 </div>
 <h3>Connect with me</h3>
-<span align="left">I'm mostly active on <a href="https://discord.com/users/767639388829515826/">Discord</a>. Feel free to DM me at <b>codeninja02#8165</b>.</span>
+<span align="left">I'm mostly active on <a href="https://discord.com/users/767639388829515826/">Discord</a>. Feel free to DM me at <b>codeninja02#8165</b>.</span><br>
+
+- [Portfolio](https://codeninja02.netlify.app/)
+- [Instagram](https://www.instagram.com/codeninja02)
+- [Twitter](https://twitter.com/codeninja02)
+- [Telegram](https://twitter.com/codeninja02)
