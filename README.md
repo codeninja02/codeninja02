@@ -1,4 +1,5 @@
 <h3>Hye There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px">, I'm <a href="https://codeninja02.netlify.app/" target="_blank">CodeNinja</a>!</h2>
+<img height="180px" src="https://media.discordapp.net/attachments/361066413923893249/821663792772939806/a.gif" align="right"/>
 <br>
 I'm currently 14 years studying in highschool.<br>
 I know MERN and have knowledge of React Native, Ionic and other frameworks and technology.
@@ -33,7 +34,9 @@ I like to code in Javascript and love creating websites and mobile applications.
 <h3>Connect with me</h3>
 <span align="left">I'm mostly active on <a href="https://discord.com/users/767639388829515826/">Discord</a>. Feel free to DM me at <b>codeninja02#8165</b>.</span><br><br>
 
-- [Portfolio](https://codeninja02.netlify.app/)
-- [Instagram](https://www.instagram.com/codeninja02)
-- [Twitter](https://twitter.com/codeninja02)
-- [Telegram](https://twitter.com/codeninja02)
+<ul>
+  <li><a href="https://codeninja02.netlify.app/">Portfolio</a>
+  <li><a href="https://www.instagram.com/codeninja02">Instagram</a>
+  <li><a href="https://twitter.com/codeninja02">Twitter</a>
+  <li><a href="https://twitter.com/codeninja02">Telegram</a>
+</ul>
