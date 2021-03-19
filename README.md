@@ -1,5 +1,5 @@
 <br>
-### Hey 👋, I'm <a href="https://codeninja02.netlify.app/" target="_blank">CodeNinja</a>!
+<h3>Hey 👋, I'm <a href="https://codeninja02.netlify.app/" target="_blank">CodeNinja</a>!</h2>
 <br>
 I'm currently 14 years studying in highschool.<br>
 I like to code in Javascript and love creating websites and mobile applications.
