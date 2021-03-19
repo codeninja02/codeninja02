@@ -16,9 +16,7 @@ I like to code in Javascript and love creating websites and mobile applications.
   </tr>
 </table>
 <br>
-<br>
 <h3>Skills</h3>
-<br>
 <div align="left">
 <img alt="HTML5" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616182312/html_efgqed.png"/>
 <img alt="CSS3" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616182312/css_d93u5n.png"/>
