@@ -1,9 +1,9 @@
-<h3>Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I'm <a href="https://codeninja02.netlify.app/" target="_blank">CodeNinja</a>!</h2>
+<h3>Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px">, I'm <a href="https://codeninja02.netlify.app/" target="_blank">CodeNinja</a>!</h2>
 <br>
 I'm currently 14 years studying in highschool.<br>
 I know MERN and have knowledge of React Native, Ionic and other frameworks and technology.
 <br><br>
-I like to code in Javascript and love creating websites and mobile applications. I also like 
+I like to code in Javascript and love creating websites and mobile applications. I also like anime and playing chess!
 <br><br>
 <table>
   <tr>
@@ -19,6 +19,10 @@ I like to code in Javascript and love creating websites and mobile applications.
 <br>
 <h3>Skills</h3>
 <br>
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<div align="left">
+<img alt="HTML5" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616182312/html_efgqed.png"/>
+<img alt="CSS3" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616182312/css_d93u5n.png"/>
+<img alt="JavaScript" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616182312/js_awnn7t.png"/>
+<img alt="TypeScript" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616182312/ts_yhaiz8.png"/>
+<img alt="NodeJS" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616182312/nodejs_h2bg7b.png"/>
+</div>
