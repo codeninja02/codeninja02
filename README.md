@@ -1,4 +1,4 @@
-<h3>Hye There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px">, I'm <a href="https://codeninja02.netlify.app/" target="_blank">CodeNinja</a>!</h2>
+<h3>Hye There 👋, I'm <a href="https://codeninja02.netlify.app/" target="_blank">CodeNinja</a>!</h2>
 <img height="180px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616211954/waving_girl_iivmaj.webp" align="right"/>
 <br>
 I'm currently 14 years studying in highschool.<br>
