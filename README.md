@@ -1,8 +1,8 @@
 <h3>Hye There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px">, I'm <a href="https://codeninja02.netlify.app/" target="_blank">CodeNinja</a>!</h2>
-<img height="180px" src="https://media.discordapp.net/attachments/361066413923893249/821663792772939806/a.gif" align="right"/>
+<img height="180px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616211954/waving_girl_iivmaj.webp" align="right"/>
 <br>
 I'm currently 14 years studying in highschool.<br>
-I know MERN and have knowledge of React Native, Ionic and other frameworks and technology.
+I know MERN and have knowledge of React Native, Ionic and other frameworks and technologies.
 <br><br>
 I like to code in Javascript and love creating websites and mobile applications. I also like anime and playing <a href="https://lichess.org/@/codeninja02" target="_blank">chess</a>!
 <br><br>
@@ -18,25 +18,24 @@ I like to code in Javascript and love creating websites and mobile applications.
 </table>
 <h3>Skills</h3>
 <div align="left">
-<img alt="HTML5" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616182312/html_efgqed.png"/>
-<img alt="CSS3" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616182312/css_d93u5n.png"/>
-<img alt="JavaScript" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616182312/js_awnn7t.png"/>
-<img alt="TypeScript" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616182312/ts_yhaiz8.png"/>
-<img alt="NodeJS" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616182312/nodejs_h2bg7b.png"/>
+<img alt="HTML5" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212420/html_mfugxd.svg"/>
+<img alt="CSS3" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212420/css_bl7j3p.svg"/>
+<img alt="JavaScript" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212420/js_u9ykow.svg"/>
+<img alt="TypeScript" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212422/ts_rpz1m2.svg"/>
+<img alt="Python" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212420/python_tuoc7s.svg"/>
 </div>
 <div align="left">
-<img alt="MongoDB" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616184229/mongodb_g4djwt.png"/>
-<img alt="React" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616184229/react_garf13.png"/>
-<img alt="Firebase" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616184228/firebase_lgf8jv.png"/>
-<img alt="Python" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616184484/python_1_ubo69s.png"/>
-<img alt="React Native" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616184229/reactnative_tvadr2.png"/>
+<img alt="MongoDB" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212420/mongodb_sbhr2y.svg"/>
+<img alt="React" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212422/react_lyvavg.svg"/>
+<img alt="Firebase" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212420/firebase_nj3ojv.svg"/>
+<img alt="NodeJS" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212422/nodejs_n5hmji.svg"/>
+<img alt="React Native" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212422/reactnative_c6druv.svg"/>
 </div>
 <h3>Connect with me</h3>
-<span align="left">I'm mostly active on <a href="https://discord.com/users/767639388829515826/">Discord</a>. Feel free to DM me at <b>codeninja02#8165</b>.</span><br><br>
-
-<ul>
-  <li><a href="https://codeninja02.netlify.app/">Portfolio</a>
-  <li><a href="https://www.instagram.com/codeninja02">Instagram</a>
-  <li><a href="https://twitter.com/codeninja02">Twitter</a>
-  <li><a href="https://twitter.com/codeninja02">Telegram</a>
-</ul>
+<span align="left">I'm mostly active on <a href="https://discord.com/users/767639388829515826/">Discord</a>. Feel free to DM me at <b>codeninja02#8165</b>.</span><br>
+<div>
+<a href="https://codeninja02.netlify.app/"><img alt="Portfolio" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/portfolio_js4mxf.png"/></a>
+<a href="https://www.instagram.com/codeninja02"><img alt="Instagram" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/instagram_vkwnws.png"/></a>
+<a href="https://twitter.com/codeninja02"><img alt="Twitter" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/twitter_afmchs.png"/></a>
+<a href="https://t.me/codeninja02"><img alt="Telegram" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/telegram_wqwmrq.png"/></a>
+</div>
