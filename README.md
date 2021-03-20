@@ -32,7 +32,7 @@ I like to code in Javascript and love creating websites and mobile applications.
 <img alt="React Native" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212422/reactnative_c6druv.svg"/>
 </div>
 <h3>Connect with me</h3>
-<span align="left">I'm mostly active on <a href="https://discord.com/users/767639388829515826/">Discord</a>. Feel free to DM me at <b>codeninja02#8165</b>.</span><br>
+<span align="left">I'm mostly active on <a href="https://discord.com/users/767639388829515826/">Discord</a>. Feel free to DM me at <b>codeninja02#8165</b>.</span><br><br>
 <div>
 <a href="https://codeninja02.netlify.app/"><img alt="Portfolio" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/portfolio_js4mxf.png"/></a>
 <a href="https://www.instagram.com/codeninja02"><img alt="Instagram" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/instagram_vkwnws.png"/></a>
