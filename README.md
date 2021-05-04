@@ -1,5 +1,4 @@
 <h3>Hye There 👋, I'm <a href="https://codeninja02.netlify.app/" target="_blank">Utsav Prasad</a>!</h2>
-<img height="180px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1620123676/ezgif.com-gif-maker_gktu9r.webp" align="right"/>
 <br>
 I'm currently 14 years studying in 10th grade.<br>
 I'm skilled and comfortable working with MERN, React Native, Ionic and other frameworks and technologies.
@@ -24,8 +23,6 @@ I love playing with javascript, typescript and creating web and mobile applicati
 <img alt="TypeScript" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212422/ts_rpz1m2.svg"/>
 <img alt="Python" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212420/python_tuoc7s.svg"/>
 </div>
-<h3>My Projects</h3>
-
 <div align="left">
 <img alt="MongoDB" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212420/mongodb_sbhr2y.svg"/>
 <img alt="React" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212422/react_lyvavg.svg"/>
@@ -33,6 +30,8 @@ I love playing with javascript, typescript and creating web and mobile applicati
 <img alt="NodeJS" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212422/nodejs_n5hmji.svg"/>
 <img alt="React Native" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212422/reactnative_c6druv.svg"/>
 </div>
+<h3>My Projects</h3>
+
 <h3>Connect with me</h3>
 <span align="left">I'm mostly active on <a href="https://discord.com/users/767639388829515826/">Discord</a>. So feel free to message me at <b>codeninja02#8165</b>.</span><br><br>
 <div>
