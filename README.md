@@ -34,8 +34,8 @@ I like to code in Javascript and love creating websites and mobile applications.
 <h3>Connect with me</h3>
 <span align="left">I'm mostly active on <a href="https://discord.com/users/767639388829515826/">Discord</a>. Feel free to DM me at <b>codeninja02#8165</b>.</span><br><br>
 <div>
-<a href="https://codeninja02.netlify.app/"><img alt="Portfolio" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/portfolio_js4mxf.png"/></a>
-<a href="https://www.instagram.com/codeninja02"><img alt="Instagram" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/instagram_vkwnws.png"/></a>
-<a href="https://twitter.com/codeninja02"><img alt="Twitter" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/twitter_afmchs.png"/></a>
-<a href="https://t.me/codeninja02"><img alt="Telegram" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616215534/telegram_wqwmrq.png"/></a>
+<a href="https://codeninja02.netlify.app/"><img alt="Portfolio" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1620120837/globe-outline_emayxd.svg"/></a>
+<a href="https://www.instagram.com/codeninja02"><img alt="Instagram" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1620120837/logo-instagram_wvfn6r.svg"/></a>
+<a href="https://twitter.com/codeninja02"><img alt="Twitter" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1620120837/logo-twitter_vpb7c8.svg"/></a>
+<a href="https://t.me/codeninja02"><img alt="Telegram" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1620120837/paper-plane-outline_ogcrml.svg"/></a>
 </div>
