@@ -34,7 +34,7 @@ I love playing with javascript, typescript and creating web and mobile applicati
 <a href="https://github.com/codeninja02/Turbo-Browser">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeninja02&repo=Turbo-Browser&show_icons=true&border_color=3b434b&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=FFFFFF00">
 </a>
-<a href="https://github.com/codeninja02/Messaging-Appr" style="margin-left='20px'">
+<a href="https://github.com/codeninja02/Messaging-App" style="margin-left='20px'">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeninja02&repo=Messaging-App&show_icons=true&border_color=3b434b&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=FFFFFF00">
 </a>
 <h3>Connect with me</h3>
