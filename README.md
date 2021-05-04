@@ -32,10 +32,10 @@ I love playing with javascript, typescript and creating web and mobile applicati
 </div>
 <h3>My Open Source Projects</h3>
 <a href="https://github.com/codeninja02/Turbo-Browser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeninja02&repo=Turbo-Browser&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=FFFFFF00">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeninja02&repo=Turbo-Browser&show_icons=true&border_color=3b434b&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=FFFFFF00">
 </a>
-<a href="https://github.com/codeninja02/Messaging-Appr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeninja02&repo=Messaging-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=FFFFFF00">
+<a href="https://github.com/codeninja02/Messaging-Appr" style="margin-left='20px'">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeninja02&repo=Messaging-App&show_icons=true&border_color=3b434b&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=FFFFFF00">
 </a>
 <h3>Connect with me</h3>
 <span align="left">I'm mostly active on <a href="https://discord.com/users/767639388829515826/">Discord</a>. So feel free to message me at <b>codeninja02#8165</b>.</span><br><br>
