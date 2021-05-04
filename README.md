@@ -15,7 +15,7 @@ I love playing with javascript, typescript and creating web and mobile applicati
     </td>
   </tr>
 </table>
-<h3>Skills</h3>
+<h3>My Skills</h3>
 <div align="left">
 <img alt="HTML5" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212420/html_mfugxd.svg"/>
 <img alt="CSS3" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212420/css_bl7j3p.svg"/>
@@ -30,9 +30,12 @@ I love playing with javascript, typescript and creating web and mobile applicati
 <img alt="NodeJS" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212422/nodejs_n5hmji.svg"/>
 <img alt="React Native" height="26px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616212422/reactnative_c6druv.svg"/>
 </div>
-<h3>My Open SourceProjects</h3>
+<h3>My Open Source Projects</h3>
 <a href="https://github.com/codeninja02/Turbo-Browser">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeninja02&repo=Turbo-Browser&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=FFFFFF00">
+</a>
+<a href="https://github.com/codeninja02/Messaging-Appr">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeninja02&repo=Messaging-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=FFFFFF00">
 </a>
 <h3>Connect with me</h3>
 <span align="left">I'm mostly active on <a href="https://discord.com/users/767639388829515826/">Discord</a>. So feel free to message me at <b>codeninja02#8165</b>.</span><br><br>
