@@ -1,7 +1,7 @@
 <h3>Hye There 👋, I'm <a href="https://codeninja02.netlify.app/" target="_blank">Utsav Prasad</a>!</h2>
 <br>
 I'm currently 14 years studying in 10th grade.<br>
-I'm skilled and comfortable working with MERN, React Native, Ionic and other frameworks and technologies.
+I'm skilled and comfortable in working with MERN, React Native, Ionic and other frameworks and technologies.
 <br><br>
 I love playing with javascript, typescript and creating web and mobile applications. I also like anime and playing <a href="https://lichess.org/@/codeninja02" target="_blank">chess</a>!
 <br><br>
